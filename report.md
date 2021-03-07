@@ -13,5 +13,5 @@
 
  * [Приложение FeatureSales при сложении даёт не верный результат.](https://github.com/skirios/homework_jawa2.2/issues/1)
 
-
+ * блаблабла
 
